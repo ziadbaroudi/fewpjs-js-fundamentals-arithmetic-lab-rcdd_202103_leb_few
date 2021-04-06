@@ -5,4 +5,4 @@ num2= 31
 multiply = num1*num2
 random = Math.random()
 num3= 4
-mod = 4%7
+mod = num3%7
