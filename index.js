@@ -2,8 +2,8 @@
 // Write your code here
 var num1= 2;
 var num2= 31;
-multiply = num1*num2;
-random = Math.random();
-num3= 4;
-num4 = 7;
-mod = num3%num7;
+var multiply = num1*num2;
+var random = Math.random();
+var num3= 4;
+var num4 = 7;
+var mod = num3%num7;
