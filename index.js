@@ -3,6 +3,7 @@
 var num1= 2;
 var num2= 31;
 var multiply = num1*num2;
+
 var random = Math.random();
 var num3= 4;
 var num4 = 7;
