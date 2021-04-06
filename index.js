@@ -4,7 +4,7 @@ var num1= 2;
 var num2= 31;
 var multiply = num1*num2;
 
-var random = Math.random();
+var random = Math.floor(Math.random() * 10) + 0;
 
 var num3= 4;
 var num4 = 7;
